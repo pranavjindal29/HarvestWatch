@@ -90,12 +90,6 @@ This repository contains the code, models, and documentation for our **Final Yea
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots/gifs here of the app UI, disease detection in action, and IoT dashboard.
-
----
-
 ## 🔭 Future Scope
 
 - Implement MQTT for faster real-time data streaming.
